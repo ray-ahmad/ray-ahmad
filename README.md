@@ -1,36 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C039%20hrs%207%20mins-blue)
 
-**🐱 My GitHub Data** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 114 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-🌃 Evening                270 commits         █████████████████░░░░░░░░   67.33 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌃 Evening                273 commits         █████████████████░░░░░░░░   67.57 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Sunday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Monday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
 ```
 
 
@@ -59,5 +49,5 @@ Linux                    19 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 22/12/2025 15:13:53 UTC
+ Last Updated on 22/12/2025 15:25:52 UTC
 <!--END_SECTION:waka-->
