@@ -21,3 +21,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           COMMIT_MESSAGE: "chore: update Waka Readme stats"
+          SHOW_SHORT_INFO: "False"
+          COMMIT_USERNAME: "ray-ahmad"
+          COMMIT_EMAIL: "
