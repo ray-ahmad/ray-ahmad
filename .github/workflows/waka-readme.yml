@@ -16,7 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.MY_PAT }}
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
