@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C038%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2025
+> 🏆 114 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -16,29 +16,27 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌃 Evening                269 commits         █████████████████░░░░░░░░   67.25 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌃 Evening                270 commits         █████████████████░░░░░░░░   67.33 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sunday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Monday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Sunday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Go                       17 hrs 25 mins      ██████████████████████░░░   88.07 % 
 Vue.js                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
@@ -60,22 +58,6 @@ pacific                  8 mins              ░░░░░░░░░░░�
 Linux                    19 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
 
-```text
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ray-ahmad/ray-ahmad/main/assets/bar_graph.png)
-
-
- Last Updated on 22/12/2025 15:01:53 UTC
+ Last Updated on 22/12/2025 15:13:53 UTC
 <!--END_SECTION:waka-->
