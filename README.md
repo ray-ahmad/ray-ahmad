@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   6 hrs 8 mins        █████████████░░░░░░░░░░░░   53.90 % 
-Go                       2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Vue.js                   8 hrs 5 mins        █████████████░░░░░░░░░░░░   50.12 % 
+TypeScript               3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Go                       3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pacific                  6 hrs 56 mins       ███████████████░░░░░░░░░░   60.78 % 
-atlantic                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-invoice-be               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-invoice-admin-fe         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-ray-ahmad                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+pacific                  8 hrs 26 mins       █████████████░░░░░░░░░░░░   52.34 % 
+invoice-admin-fe         3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+atlantic                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+invoice-be               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+quasar-ui-starter        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Linux                    11 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/12/2025 09:28:54 UTC
+ Last Updated on 27/12/2025 09:26:58 UTC
 <!--END_SECTION:waka-->
