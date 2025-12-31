@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.20 % 
-Go                       6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.34 % 
-TypeScript               4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Go                       7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
+Vue.js                   6 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.46 % 
+TypeScript               3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+SQL                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pacific                  8 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
-invoice-be               4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-invoice-admin-fe         4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-atlantic                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-quasar-ui-starter        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+invoice-be               5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+pacific                  5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+invoice-admin-fe         4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+atlantic                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+quasar-ui-starter        1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 💻 Operating System: 
-Linux                    19 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/12/2025 09:31:59 UTC
+ Last Updated on 31/12/2025 09:30:41 UTC
 <!--END_SECTION:waka-->
