@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 35 mins      █████████████████░░░░░░░░   67.74 % 
-Vue.js                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-SQL                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Go                       12 hrs 32 mins      ████████████████░░░░░░░░░   62.57 % 
+TypeScript               2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Vue.js                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+SQL                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sso-be                   10 hrs 4 mins       ██████████████░░░░░░░░░░░   54.26 % 
-invoice-be               2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-sso-fe                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-notification-be          1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-notification-admin-fe    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+sso-be                   10 hrs 38 mins      █████████████░░░░░░░░░░░░   53.08 % 
+sso-fe                   4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+invoice-be               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+notification-be          1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+notification-admin-fe    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 💻 Operating System: 
-Linux                    18 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/01/2026 09:39:25 UTC
+ Last Updated on 13/01/2026 09:34:36 UTC
 <!--END_SECTION:waka-->
