@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       10 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.96 % 
-Vue.js                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-TypeScript               3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-SQL                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Vue.js                   6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
+Go                       6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
+TypeScript               4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sso-be                   10 hrs 42 mins      █████████████░░░░░░░░░░░░   51.25 % 
-sso-fe                   4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-quasar-ui-starter        2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-invoice-admin-fe         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-invoice-be               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+sso-be                   6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+sso-fe                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+quasar-ui-starter        4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+invoice-admin-fe         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+invoice-be               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2026 09:35:40 UTC
+ Last Updated on 15/01/2026 09:34:55 UTC
 <!--END_SECTION:waka-->
