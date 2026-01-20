@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
-TypeScript               5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Go                       2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-SQL                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
+Vue.js                   6 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+Go                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-quasar-ui-starter        4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-sso-fe                   3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-sso-be                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-invoice-admin-fe         1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-ticketing-fe             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+quasar-ui-starter        4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+sso-fe                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+wms-fe                   2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+invoice-admin-fe         1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+ticketing-fe             1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 💻 Operating System: 
-Linux                    15 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/01/2026 09:41:12 UTC
+ Last Updated on 20/01/2026 09:39:14 UTC
 <!--END_SECTION:waka-->
