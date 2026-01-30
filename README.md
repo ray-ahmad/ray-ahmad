@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   10 hrs 30 mins      ███████████████░░░░░░░░░░   58.86 % 
-Go                       3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-TypeScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Vue.js                   12 hrs 24 mins      ███████████████░░░░░░░░░░   58.53 % 
+TypeScript               4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Go                       4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-fe                   13 hrs 19 mins      ███████████████████░░░░░░   74.72 % 
-wms-be                   3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-invoice-be               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-pacific                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-atlantic                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+wms-fe                   16 hrs 22 mins      ███████████████████░░░░░░   77.26 % 
+wms-be                   3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+invoice-be               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+quasar-ui-starter        19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+pacific                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    17 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/01/2026 09:51:58 UTC
+ Last Updated on 30/01/2026 09:46:41 UTC
 <!--END_SECTION:waka-->
