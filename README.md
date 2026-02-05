@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
-Vue.js                   9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
-Go                       1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
+Vue.js                   9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.13 % 
+Go                       5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-fe                   16 hrs 35 mins      ████████████████████░░░░░   80.13 % 
-wms-be                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-shipping-customer-fe     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-pacific                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-quasar-ui-starter        20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+wms-fe                   16 hrs 18 mins      █████████████████░░░░░░░░   67.98 % 
+wms-be                   5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+shipping-customer-fe     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+pacific                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+quasar-ui-starter        25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Linux                    20 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/02/2026 09:53:54 UTC
+ Last Updated on 05/02/2026 09:53:55 UTC
 <!--END_SECTION:waka-->
