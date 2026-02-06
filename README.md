@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.46 % 
-Vue.js                   9 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.13 % 
-Go                       5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
+Vue.js                   7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Go                       6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-fe                   16 hrs 18 mins      █████████████████░░░░░░░░   67.98 % 
-wms-be                   5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-shipping-customer-fe     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-pacific                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-quasar-ui-starter        25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+wms-fe                   13 hrs 30 mins      ███████████████░░░░░░░░░░   59.11 % 
+wms-be                   6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+shipping-customer-fe     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+invoice-be               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+pacific                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Linux                    23 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/02/2026 09:53:55 UTC
+ Last Updated on 06/02/2026 09:52:27 UTC
 <!--END_SECTION:waka-->
