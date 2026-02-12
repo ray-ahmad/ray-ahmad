@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C181%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       13 hrs 3 mins       ████████████░░░░░░░░░░░░░   48.88 % 
-Vue.js                   8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.37 % 
-TypeScript               4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-SQL                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Go                       12 hrs 40 mins      █████████████░░░░░░░░░░░░   50.88 % 
+Vue.js                   6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+TypeScript               4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+SQL                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   13 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-wms-fe                   12 hrs 31 mins      ████████████░░░░░░░░░░░░░   46.88 % 
-invoice-be               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-pacific                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-sso-be                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+wms-be                   12 hrs 39 mins      █████████████░░░░░░░░░░░░   50.84 % 
+wms-fe                   11 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.47 % 
+invoice-be               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+sso-be                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+ticketing-fe             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    26 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/02/2026 09:59:09 UTC
+ Last Updated on 12/02/2026 09:58:10 UTC
 <!--END_SECTION:waka-->
