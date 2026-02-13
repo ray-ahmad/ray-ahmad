@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 40 mins      █████████████░░░░░░░░░░░░   50.88 % 
-Vue.js                   6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-TypeScript               4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-SQL                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Go                       12 hrs 21 mins      █████████████░░░░░░░░░░░░   50.80 % 
+Vue.js                   6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+TypeScript               4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Bash                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   12 hrs 39 mins      █████████████░░░░░░░░░░░░   50.84 % 
-wms-fe                   11 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.47 % 
-invoice-be               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-sso-be                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-ticketing-fe             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+wms-be                   12 hrs 35 mins      █████████████░░░░░░░░░░░░   51.79 % 
+wms-fe                   11 hrs 21 mins      ████████████░░░░░░░░░░░░░   46.69 % 
+ticketing-fe             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+pacific                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+atlantic                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Linux                    24 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/02/2026 09:58:10 UTC
+ Last Updated on 13/02/2026 09:54:05 UTC
 <!--END_SECTION:waka-->
