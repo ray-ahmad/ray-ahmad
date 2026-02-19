@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       11 hrs 51 mins      ████████████████░░░░░░░░░   64.75 % 
-Vue.js                   3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-TypeScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Go                       12 hrs 32 mins      █████████████████░░░░░░░░   69.71 % 
+Vue.js                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   11 hrs 54 mins      ████████████████░░░░░░░░░   64.95 % 
-wms-fe                   5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
-atlantic                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-invoice-be               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-infor                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+wms-be                   12 hrs 33 mins      █████████████████░░░░░░░░   69.78 % 
+wms-fe                   4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+atlantic                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+invoice-be               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+infor                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Linux                    18 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/02/2026 09:56:47 UTC
+ Last Updated on 19/02/2026 09:56:14 UTC
 <!--END_SECTION:waka-->
