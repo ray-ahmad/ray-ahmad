@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C228%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.17 % 
-Vue.js                   5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-TypeScript               3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Go                       6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+Vue.js                   4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+TypeScript               2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-fe                   7 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.18 % 
-wms-be                   7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
-pacific                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-quasar-ui-starter        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-sso-fe                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+wms-be                   6 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
+wms-fe                   6 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.31 % 
+quasar-ui-starter        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+sso-fe                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+pacific                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    16 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 09:57:46 UTC
+ Last Updated on 03/03/2026 09:52:03 UTC
 <!--END_SECTION:waka-->
