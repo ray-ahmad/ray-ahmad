@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C246%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C253%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   9 hrs 16 mins       █████████████░░░░░░░░░░░░   53.33 % 
-Go                       5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
-TypeScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Vue.js                   11 hrs 38 mins      █████████████░░░░░░░░░░░░   52.01 % 
+Go                       6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+TypeScript               3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-fe                   10 hrs 56 mins      ████████████████░░░░░░░░░   62.87 % 
-wms-be                   5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-quasar-ui-starter        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-infor                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-pacific                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+wms-fe                   12 hrs 22 mins      ██████████████░░░░░░░░░░░   55.33 % 
+wms-be                   5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+finance-fe               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+infor                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+finance-be               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Linux                    17 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 09:59:34 UTC
+ Last Updated on 10/03/2026 09:53:24 UTC
 <!--END_SECTION:waka-->
