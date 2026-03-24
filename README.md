@@ -28,26 +28,25 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 26 mins       ██████████████░░░░░░░░░░░   57.73 % 
-Vue.js                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-TypeScript               1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Go                       6 hrs 1 min         ███████████████░░░░░░░░░░   60.49 % 
+TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Vue.js                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   8 hrs 21 mins       ████████████████░░░░░░░░░   64.87 % 
-wms-fe                   3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-infor                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-invoice-admin-fe         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-sso-be                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+wms-be                   7 hrs 3 mins        ██████████████████░░░░░░░   70.83 % 
+wms-fe                   2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+invoice-admin-fe         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+pacific                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    12 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 10:07:49 UTC
+ Last Updated on 24/03/2026 10:00:46 UTC
 <!--END_SECTION:waka-->
