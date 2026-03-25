@@ -28,25 +28,23 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 1 min         ███████████████░░░░░░░░░░   60.49 % 
-TypeScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Vue.js                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Go                       4 hrs 13 mins       █████████████████████░░░░   84.58 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Vue.js                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   7 hrs 3 mins        ██████████████████░░░░░░░   70.83 % 
-wms-fe                   2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-invoice-admin-fe         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-pacific                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+wms-be                   4 hrs 46 mins       ████████████████████████░   95.69 % 
+wms-fe                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 10:00:46 UTC
+ Last Updated on 25/03/2026 09:59:46 UTC
 <!--END_SECTION:waka-->
