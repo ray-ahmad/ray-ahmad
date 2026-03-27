@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -28,18 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 hrs 28 mins       █████████████████████░░░░   83.38 % 
+Vue.js                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wms-be                   3 hrs 6 mins        ███████████████████░░░░░░   74.90 % 
+wms-fe                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+infor                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+invoice-be               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+quasar-ui-starter        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 10:05:31 UTC
+ Last Updated on 27/03/2026 09:59:23 UTC
 <!--END_SECTION:waka-->
