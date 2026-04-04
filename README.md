@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       10 hrs 23 mins      ███████████████░░░░░░░░░░   60.12 % 
-Vue.js                   3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-TypeScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Go                       8 hrs 55 mins       ███████████████████░░░░░░   76.41 % 
+YAML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Vue.js                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wms-be                   8 hrs 40 mins       █████████████░░░░░░░░░░░░   50.14 % 
-wms-fe                   4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-infor                    2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-sso-fe                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-shipping-customer-fe     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+wms-be                   7 hrs 11 mins       ███████████████░░░░░░░░░░   61.62 % 
+infor                    2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+wms-fe                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+sso-fe                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+sso-be                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    17 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 09:57:19 UTC
+ Last Updated on 04/04/2026 09:45:23 UTC
 <!--END_SECTION:waka-->
