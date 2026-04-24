@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Go                       3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Vue.js                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Vue                      5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
+TypeScript               4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Go                       3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shipping-customer-fe     4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.05 % 
-sso-be                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-wms-fe                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-wms-be                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-sso-fe                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+shipping-customer-fe     5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.64 % 
+sso-be                   3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+sso-fe                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+ticketing-fe             1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+quasar-ui-starter        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Linux                    13 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/04/2026 10:24:44 UTC
+ Last Updated on 24/04/2026 10:26:34 UTC
 <!--END_SECTION:waka-->
