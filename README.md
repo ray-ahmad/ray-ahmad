@@ -28,26 +28,26 @@ Sunday                   94 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      5 hrs 57 mins       █████████████░░░░░░░░░░░░   51.53 % 
-TypeScript               2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Go                       1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Vue                      6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+TypeScript               3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Go                       1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-quasar-ui-starter        3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-wms-fe                   2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-sso-fe                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-sso-be                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-finance-fe               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+wms-fe                   4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+quasar-ui-starter        4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+sso-fe                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+sso-be                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+finance-fe               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 Operating System: 
-Linux                    11 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 10:42:28 UTC
+ Last Updated on 09/05/2026 10:11:21 UTC
 <!--END_SECTION:waka-->
