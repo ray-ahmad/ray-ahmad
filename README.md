@@ -1,6 +1,53 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2011%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 11:24:57 UTC
+```text
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌃 Evening                273 commits         █████████████████░░░░░░░░   67.57 % 
+🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Tuesday                  49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Friday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               1 hr 3 mins         ████████████░░░░░░░░░░░░░   46.55 % 
+Vue                      52 mins             ██████████░░░░░░░░░░░░░░░   38.51 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+wms-fe                   1 hr 8 mins         █████████████░░░░░░░░░░░░   50.69 % 
+finance-fe               31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+quasar-ui-starter        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+ticketing-fe             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+sso-be                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+
+💻 Operating System: 
+Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 10:20:53 UTC
 <!--END_SECTION:waka-->
