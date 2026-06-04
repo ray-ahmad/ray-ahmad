@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C427%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,27 +28,27 @@ Sunday                   132 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-TypeScript               3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Python                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Go                       4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Python                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Vue                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Bash                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 20 mins      █████████████████████████   99.76 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  20 hrs 10 mins      █████████████████████████   99.06 % 
+Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-sso-be                   4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-artour-api               4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-artour-recommender       3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-sso-fe                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-artour-android           1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+artour-api               4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+sso-be                   3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+artour-recommender       3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+artour-android           2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+sso-fe                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 💻 Operating System: 
-Linux                    20 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2026 13:21:20 UTC
+ Last Updated on 04/06/2026 12:05:03 UTC
 <!--END_SECTION:waka-->
