@@ -28,28 +28,28 @@ Sunday                   144 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.75 % 
-Vue                      5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-TypeScript               2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Go                       9 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.41 % 
+Vue                      4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+TypeScript               2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 27 mins      █████████████████████████   98.92 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  19 hrs 27 mins      █████████████████████████   99.59 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-atlantic                 7 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
-shipping-customer-fe     4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-sso-be                   2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-artour-android           1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-artour-api               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+atlantic                 8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.31 % 
+shipping-customer-fe     5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+artour-api               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+sso-be                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+shipping-be              53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Linux                    19 hrs 26 mins      ████████████████████████░   94.03 % 
-Windows                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Linux                    18 hrs 17 mins      ███████████████████████░░   93.68 % 
+Windows                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
- Last Updated on 09/06/2026 12:08:38 UTC
+ Last Updated on 10/06/2026 12:27:15 UTC
 <!--END_SECTION:waka-->
