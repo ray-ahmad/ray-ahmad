@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,28 +28,27 @@ Sunday                   172 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 8 mins        ██████████████░░░░░░░░░░░   54.22 % 
-Vue                      2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-TypeScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Go                       7 hrs 37 mins       █████████████████░░░░░░░░   66.09 % 
+TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Vue                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 57 mins      █████████████████████████   99.62 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atlantic                 8 hrs 4 mins        █████████████░░░░░░░░░░░░   53.74 % 
-shipping-customer-fe     3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-artour-api               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-shipping-be              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-pacific                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+atlantic                 7 hrs 27 mins       ████████████████░░░░░░░░░   64.60 % 
+artour-api               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+shipping-customer-fe     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+artour-android           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+pacific                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Linux                    13 hrs 46 mins      ███████████████████████░░   91.78 % 
-Windows                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Linux                    10 hrs 18 mins      ██████████████████████░░░   89.31 % 
+Windows                  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 ```
 
 
- Last Updated on 11/06/2026 12:50:53 UTC
+ Last Updated on 12/06/2026 12:23:16 UTC
 <!--END_SECTION:waka-->
