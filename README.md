@@ -28,28 +28,27 @@ Sunday                   172 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 58 mins       ███████████████░░░░░░░░░░   60.37 % 
-TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Vue                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Go                       5 hrs 58 mins       █████████████████░░░░░░░░   68.97 % 
+TypeScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Vue                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       █████████████████████████   99.61 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   99.55 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-atlantic                 5 hrs 52 mins       ███████████████░░░░░░░░░░   59.33 % 
-artour-api               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-artour-android           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-shipping-customer-fe     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-pacific                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+atlantic                 5 hrs 52 mins       █████████████████░░░░░░░░   67.78 % 
+artour-api               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+shipping-customer-fe     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+artour-android           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+pacific                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 💻 Operating System: 
-Linux                    8 hrs 40 mins       ██████████████████████░░░   87.54 % 
-Windows                  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Linux                    8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 11:20:01 UTC
+ Last Updated on 14/06/2026 11:33:57 UTC
 <!--END_SECTION:waka-->
