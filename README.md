@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -28,28 +28,28 @@ Sunday                   200 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      5 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Go                       5 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-TypeScript               4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Kotlin                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Go                       5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.98 % 
+Vue                      5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.30 % 
+TypeScript               4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 7 mins       ██████████████████████░░░   89.59 % 
-Claude Code              1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+VS Code                  14 hrs 5 mins       ███████████████████████░░   90.41 % 
+Claude Code              1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🐱‍💻 Projects: 
-sso-fe                   5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
-wms-be                   3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-wms-fe                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-sso-be                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-artour-android           1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+sso-fe                   5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
+wms-be                   3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+wms-fe                   2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+sso-be                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+shipping-customer-fe     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 💻 Operating System: 
-Linux                    17 hrs 50 mins      █████████████████████████   99.10 % 
-Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Linux                    15 hrs 25 mins      █████████████████████████   98.96 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
- Last Updated on 28/06/2026 11:12:06 UTC
+ Last Updated on 29/06/2026 13:11:20 UTC
 <!--END_SECTION:waka-->
