@@ -28,27 +28,28 @@ Sunday                   256 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 2 mins       ███████████████░░░░░░░░░░   61.22 % 
-Vue                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-TypeScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Go                       12 hrs 2 mins       ███████████████░░░░░░░░░░   60.96 % 
+Vue                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+TypeScript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 28 mins      █████████████████████░░░░   83.76 % 
-Claude Code              3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+VS Code                  16 hrs 33 mins      █████████████████████░░░░   83.83 % 
+Claude Code              3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 
 🐱‍💻 Projects: 
-atlantic                 8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.58 % 
-wms-be                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-pacific                  3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-wms-fe                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-artour-android           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+atlantic                 8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
+wms-be                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+pacific                  3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+wms-fe                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+artour-android           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Linux                    19 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 39 mins      █████████████████████████   99.58 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 
- Last Updated on 04/07/2026 10:57:23 UTC
+ Last Updated on 05/07/2026 11:08:26 UTC
 <!--END_SECTION:waka-->
