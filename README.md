@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C494%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C496%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,28 +28,28 @@ Sunday                   256 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 2 mins       ███████████████░░░░░░░░░░   60.96 % 
-Vue                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-TypeScript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Go                       13 hrs 31 mins      ██████████████░░░░░░░░░░░   57.21 % 
+Vue                      4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+TypeScript               3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 33 mins      █████████████████████░░░░   83.83 % 
-Claude Code              3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+VS Code                  20 hrs 51 mins      ██████████████████████░░░   88.30 % 
+Claude Code              2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 🐱‍💻 Projects: 
-atlantic                 8 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
-wms-be                   3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-pacific                  3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-wms-fe                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-artour-android           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+atlantic                 9 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.65 % 
+wms-be                   4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+pacific                  3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+shipping-customer-fe     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+wms-fe                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 💻 Operating System: 
-Linux                    19 hrs 39 mins      █████████████████████████   99.58 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Linux                    23 hrs 32 mins      █████████████████████████   99.65 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
- Last Updated on 06/07/2026 12:53:43 UTC
+ Last Updated on 07/07/2026 11:56:22 UTC
 <!--END_SECTION:waka-->
