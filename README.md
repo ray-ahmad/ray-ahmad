@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C510%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C513%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -28,29 +28,29 @@ Sunday                   269 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.60 % 
-Python                   3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-TypeScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Vue                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Go                       6 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
+Python                   3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Kotlin                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 13 mins      █████████████████████░░░░   82.58 % 
-Claude Code              3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  13 hrs 17 mins      ████████████████████░░░░░   79.31 % 
+Claude Code              3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Antigravity CLI          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🐱‍💻 Projects: 
-wms-be                   4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-artour-recommender       4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-shipping-customer-fe     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-atlantic                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-artour-android           1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+artour-recommender       4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+wms-be                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+atlantic                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+artour-android           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+artour                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
-Linux                    16 hrs 13 mins      █████████████████████░░░░   82.54 % 
-Windows                  3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Linux                    13 hrs 15 mins      ████████████████████░░░░░   79.10 % 
+Windows                  3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 ```
 
 
- Last Updated on 13/07/2026 12:11:09 UTC
+ Last Updated on 14/07/2026 10:51:54 UTC
 <!--END_SECTION:waka-->
