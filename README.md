@@ -1,26 +1,26 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-🌆 Daytime                366 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌃 Evening                933 commits         ███████████████░░░░░░░░░░   60.70 % 
-🌙 Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌞 Morning                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                367 commits         ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌃 Evening                934 commits         ███████████████░░░░░░░░░░   60.53 % 
+🌙 Night                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   429 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Tuesday                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                327 commits         █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Thursday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Friday                   32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Saturday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Sunday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Monday                   431 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                327 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Thursday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Friday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Saturday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Sunday                   271 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 ```
 
 
@@ -28,30 +28,29 @@ Sunday                   270 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-Vue                      2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-SQL                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Go                       5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Vue                      4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+TypeScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+SQL                      2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 4 mins       ████████████████████░░░░░   79.79 % 
-DataGrip                 1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Claude Code              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+VS Code                  12 hrs 41 mins      ███████████████████░░░░░░   74.25 % 
+DataGrip                 2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Claude Code              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🐱‍💻 Projects: 
-shipping-be              4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
-shipping-customer-fe     3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-temas                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-wms-be                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-artour-recommender       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+shipping-customer-fe     7 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
+shipping-be              4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+temas                    2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+wms-be                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+artour-recommender       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Linux                    11 hrs 56 mins      ████████████████████████░   94.62 % 
-Windows                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Linux                    16 hrs 20 mins      ████████████████████████░   95.58 % 
+Windows                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 
 
- Last Updated on 20/07/2026 11:50:05 UTC
+ Last Updated on 21/07/2026 11:12:42 UTC
 <!--END_SECTION:waka-->
