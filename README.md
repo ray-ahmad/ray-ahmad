@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2023%20mins-blue?style=flat)
 
@@ -30,35 +30,34 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 45 mins       ████████████████░░░░░░░░░   65.87 % 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-SQL                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Python                   5 hrs 45 mins       ████████████████░░░░░░░░░   65.31 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        ███████████████░░░░░░░░░░   58.58 % 
-Claude Code              3 hrs               █████████░░░░░░░░░░░░░░░░   34.33 % 
-DataGrip                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+VS Code                  5 hrs 48 mins       ████████████████░░░░░░░░░   65.96 % 
+Claude Code              3 hrs               █████████░░░░░░░░░░░░░░░░   34.04 % 
 
 🐱‍💻 Projects: 
-artour-recommender       6 hrs 43 mins       ███████████████████░░░░░░   76.92 % 
-temas                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-artour-android           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-artour                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-hgspace-artour-recommende13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+artour-recommender       7 hrs 8 mins        ████████████████████░░░░░   81.03 % 
+artour-android           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+artour                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+artour-api               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+hgspace-artour-recommende13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Linux                    6 hrs 25 mins       ██████████████████░░░░░░░   73.58 % 
-Windows                  2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Linux                    6 hrs 30 mins       ██████████████████░░░░░░░   73.80 % 
+Windows                  2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (43.5%)
+⏱ AI Coding Time: 3 hrs 48 mins (43.13%)
 
-✍️ 4,166 lines written by AI, 4,061 lines written by hand (50.64% AI-written)
+✍️ 4,166 lines written by AI, 4,042 lines written by hand (50.76% AI-written)
 
 🔤 46,861,199 Input Tokens, 315,500 Output Tokens
 
@@ -70,12 +69,12 @@ Sonnet                   4,182 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.64% of written lines came from AI
+⚖️ Balanced with AI — 50.76% of written lines came from AI
 📚 Verbose Prompter — average 2,492 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 71.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 11:32:10 UTC
+ Last Updated on 01/08/2026 10:44:11 UTC
 <!--END_SECTION:waka-->
