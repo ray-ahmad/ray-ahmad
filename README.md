@@ -30,34 +30,34 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 45 mins       ████████████████░░░░░░░░░   65.31 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   5 hrs 1 min         ████████████████░░░░░░░░░   62.22 % 
+Markdown                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 48 mins       ████████████████░░░░░░░░░   65.96 % 
-Claude Code              3 hrs               █████████░░░░░░░░░░░░░░░░   34.04 % 
+VS Code                  5 hrs 4 mins        ████████████████░░░░░░░░░   62.86 % 
+Claude Code              3 hrs               █████████░░░░░░░░░░░░░░░░   37.14 % 
 
 🐱‍💻 Projects: 
-artour-recommender       7 hrs 8 mins        ████████████████████░░░░░   81.03 % 
-artour-android           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-artour                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-artour-api               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-hgspace-artour-recommende13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+artour-recommender       6 hrs 24 mins       ████████████████████░░░░░   79.30 % 
+artour-android           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+artour                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+artour-api               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+hgspace-artour-recommende13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Linux                    6 hrs 30 mins       ██████████████████░░░░░░░   73.80 % 
-Windows                  2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Linux                    6 hrs 30 mins       ████████████████████░░░░░   80.52 % 
+Windows                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (43.13%)
+⏱ AI Coding Time: 3 hrs 48 mins (47.06%)
 
-✍️ 4,166 lines written by AI, 4,042 lines written by hand (50.76% AI-written)
+✍️ 4,166 lines written by AI, 2,809 lines written by hand (59.73% AI-written)
 
 🔤 46,861,199 Input Tokens, 315,500 Output Tokens
 
@@ -69,12 +69,12 @@ Sonnet                   4,182 lines         ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.76% of written lines came from AI
+⚖️ Balanced with AI — 59.73% of written lines came from AI
 📚 Verbose Prompter — average 2,492 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 71.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 66.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 10:44:53 UTC
+ Last Updated on 03/08/2026 12:30:36 UTC
 <!--END_SECTION:waka-->
