@@ -8,21 +8,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                383 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-🌃 Evening                946 commits         ███████████████░░░░░░░░░░   58.76 % 
-🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌞 Morning                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+🌆 Daytime                383 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌃 Evening                946 commits         ███████████████░░░░░░░░░░   58.54 % 
+🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   447 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Tuesday                  254 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Wednesday                346 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Thursday                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Friday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Sunday                   274 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Monday                   447 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Tuesday                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Wednesday                346 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Thursday                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Friday                   38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Sunday                   274 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -30,51 +30,51 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       13 hrs 22 mins      ██████████████░░░░░░░░░░░   56.45 % 
-Vue                      3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-SQL                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Go                       11 hrs 38 mins      ███████████████░░░░░░░░░░   59.51 % 
+Vue                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+TypeScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+SQL                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 37 mins      ████████████████████░░░░░   78.64 % 
-Claude Code              3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-DataGrip                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+VS Code                  15 hrs 49 mins      ████████████████████░░░░░   80.93 % 
+Claude Code              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+DataGrip                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🐱‍💻 Projects: 
-shipping-be              11 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.55 % 
-shipping-customer-fe     3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-shipping-admin-fe        3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-temas                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-atlantic                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+shipping-be              9 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.09 % 
+shipping-admin-fe        3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+shipping-customer-fe     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+atlantic                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+temas                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-Linux                    23 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 30 mins (27.48%)
+⏱ AI Coding Time: 5 hrs 42 mins (29.15%)
 
-✍️ 957 lines written by AI, 1,436 lines written by hand (39.99% AI-written)
+✍️ 704 lines written by AI, 1,347 lines written by hand (34.32% AI-written)
 
-🔤 2,226,721 Input Tokens, 368,764 Output Tokens
+🔤 1,972,922 Input Tokens, 298,266 Output Tokens
 
-💵 $21.99 Estimated AI Cost This Week
+💵 $19.59 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 107 AI Prompts
+🧠 14 AI Sessions, 76 AI Prompts
 
-Sonnet                   1,096 lines         █████████████████████████   100.00 % 
+Sonnet                   843 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.99% of written lines came from AI
-📄 Detailed Prompter — average 1,398 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 66.52% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.32% of written lines came from AI
+📄 Detailed Prompter — average 1,163 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 70.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 09:48:45 UTC
+ Last Updated on 18/08/2026 09:38:28 UTC
 <!--END_SECTION:waka-->
