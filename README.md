@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C575%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C580%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,51 +30,51 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       11 hrs 38 mins      ███████████████░░░░░░░░░░   59.51 % 
-Vue                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-TypeScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-SQL                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Go                       9 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.55 % 
+Vue                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+TypeScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+SQL                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 49 mins      ████████████████████░░░░░   80.93 % 
-Claude Code              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-DataGrip                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+VS Code                  14 hrs 57 mins      ████████████████████░░░░░   80.98 % 
+Claude Code              2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+DataGrip                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-shipping-be              9 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.09 % 
-shipping-admin-fe        3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-shipping-customer-fe     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-atlantic                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-temas                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+shipping-be              7 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
+shipping-admin-fe        3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+shipping-customer-fe     3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+atlantic                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+temas                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Linux                    19 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 42 mins (29.15%)
+⏱ AI Coding Time: 5 hrs 9 mins (27.94%)
 
-✍️ 704 lines written by AI, 1,347 lines written by hand (34.32% AI-written)
+✍️ 641 lines written by AI, 1,028 lines written by hand (38.41% AI-written)
 
-🔤 1,972,922 Input Tokens, 298,266 Output Tokens
+🔤 2,559,871 Input Tokens, 237,520 Output Tokens
 
-💵 $19.59 Estimated AI Cost This Week
+💵 $19.34 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 76 AI Prompts
+🧠 14 AI Sessions, 66 AI Prompts
 
-Sonnet                   843 lines           █████████████████████████   100.00 % 
+Sonnet                   642 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.32% of written lines came from AI
-📄 Detailed Prompter — average 1,163 characters per prompt
+⚖️ Balanced with AI — 38.41% of written lines came from AI
+📚 Verbose Prompter — average 1,904 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 70.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 09:38:28 UTC
+ Last Updated on 19/08/2026 09:39:07 UTC
 <!--END_SECTION:waka-->
