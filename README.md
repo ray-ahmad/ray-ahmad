@@ -30,51 +30,51 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.55 % 
-SQL                      3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Vue                      2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Go                       5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.18 % 
+SQL                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Vue                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 42 mins      █████████████████░░░░░░░░   67.80 % 
-Claude Code              2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-DataGrip                 2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+VS Code                  7 hrs 54 mins       ████████████████░░░░░░░░░   62.37 % 
+Claude Code              2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+DataGrip                 2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 
 🐱‍💻 Projects: 
-shipping-be              8 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-shipping-customer-fe     3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-temas                    2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-shipping                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-shipping-admin-fe        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+shipping-be              5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
+shipping-customer-fe     2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+temas                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+shipping                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+rayhan.ahmad@temasline.co33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Linux                    17 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (26.54%)
+⏱ AI Coding Time: 3 hrs 35 mins (28.37%)
 
-✍️ 154 lines written by AI, 542 lines written by hand (22.13% AI-written)
+✍️ 68 lines written by AI, 372 lines written by hand (15.45% AI-written)
 
-🔤 1,929,282 Input Tokens, 176,709 Output Tokens
+🔤 868,370 Input Tokens, 132,467 Output Tokens
 
-💵 $11.54 Estimated AI Cost This Week
+💵 $6.79 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 162 AI Prompts
+🧠 9 AI Sessions, 151 AI Prompts
 
-Sonnet                   165 lines           █████████████████████████   100.00 % 
+Sonnet                   78 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.13% of written lines came from AI
-📄 Detailed Prompter — average 621 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 83.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.45% of written lines came from AI
+📝 Concise Prompter — average 397 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 88.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 09:40:37 UTC
+ Last Updated on 26/08/2026 09:48:50 UTC
 <!--END_SECTION:waka-->
