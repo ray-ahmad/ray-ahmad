@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C592%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C598%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,51 +30,50 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.18 % 
-SQL                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Vue                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Go                       6 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
+SQL                      2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Vue                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 54 mins       ████████████████░░░░░░░░░   62.37 % 
-Claude Code              2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-DataGrip                 2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+VS Code                  8 hrs 38 mins       ██████████████░░░░░░░░░░░   55.77 % 
+Claude Code              4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+DataGrip                 2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 
 🐱‍💻 Projects: 
-shipping-be              5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
-shipping-customer-fe     2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-temas                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-shipping                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-rayhan.ahmad@temasline.co33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+shipping-be              6 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
+shipping-customer-fe     3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+temas                    2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+shipping                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+invoice-be               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Linux                    12 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (28.37%)
+⏱ AI Coding Time: 5 hrs 47 mins (37.4%)
 
-✍️ 68 lines written by AI, 372 lines written by hand (15.45% AI-written)
+✍️ 742 lines written by AI, 592 lines written by hand (55.62% AI-written)
 
-🔤 868,370 Input Tokens, 132,467 Output Tokens
+🔤 1,714,441 Input Tokens, 257,129 Output Tokens
 
-💵 $6.79 Estimated AI Cost This Week
+💵 $16.98 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 151 AI Prompts
+🧠 10 AI Sessions, 205 AI Prompts
 
-Sonnet                   78 lines            █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   908 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.45% of written lines came from AI
-📝 Concise Prompter — average 397 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 88.55% of changed lines were hand-edited
+⚖️ Balanced with AI — 55.62% of written lines came from AI
+📄 Detailed Prompter — average 946 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🔍 Hands-On Reviewer — 56.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 09:48:50 UTC
+ Last Updated on 27/08/2026 19:42:54 UTC
 <!--END_SECTION:waka-->
