@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C617%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,52 +30,52 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Vue                      3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-TypeScript               3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-SQL                      3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Go                       6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Vue                      3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+SQL                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 59 mins      ███████████████░░░░░░░░░░   60.83 % 
-Claude Code              4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-DataGrip                 3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Antigravity Desktop      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  12 hrs 37 mins      ███████████████░░░░░░░░░░   61.71 % 
+DataGrip                 2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Claude Code              2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Antigravity Desktop      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Antigravity CLI          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🐱‍💻 Projects: 
-shipping-be              8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.89 % 
-shipping-customer-fe     6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-temas                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-shipping-admin-fe        2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-shipping                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+shipping-be              6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.17 % 
+shipping-customer-fe     4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+temas                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+shipping-admin-fe        2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+shipping                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 💻 Operating System: 
-Linux                    24 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 3 mins (53.02%)
+⏱ AI Coding Time: 11 hrs 24 mins (55.76%)
 
-✍️ 2,149 lines written by AI, 698 lines written by hand (75.48% AI-written)
+✍️ 1,461 lines written by AI, 576 lines written by hand (71.72% AI-written)
 
-🔤 2,406,721 Input Tokens, 389,075 Output Tokens
+🔤 1,289,432 Input Tokens, 206,836 Output Tokens
 
-💵 $23.89 Estimated AI Cost This Week
+💵 $11.20 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 294 AI Prompts
+🧠 23 AI Sessions, 286 AI Prompts
 
-Sonnet                   2,329 lines         █████████████████████████   100.00 % 
+Sonnet                   1,475 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.48% of written lines came from AI
-📄 Detailed Prompter — average 856 characters per prompt
+🤖 AI-Driven — 71.72% of written lines came from AI
+📝 Concise Prompter — average 438 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 42.51% of changed lines were hand-edited
+🚀 High AI Trust — 45.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 13:28:00 UTC
+ Last Updated on 03/09/2026 13:26:35 UTC
 <!--END_SECTION:waka-->
