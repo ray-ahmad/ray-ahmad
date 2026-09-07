@@ -30,52 +30,52 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.63 % 
-SQL                      3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Other                    3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Markdown                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Go                       7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.91 % 
+SQL                      3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Other                    3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
-DataGrip                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Antigravity CLI          3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Antigravity Desktop      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Claude Code              1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+VS Code                  8 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
+DataGrip                 3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Antigravity CLI          3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Antigravity Desktop      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Claude Code              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🐱‍💻 Projects: 
-shipping-be              5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
-temas                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-tencent-vps              3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-shipping                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-shipping-customer-fe     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+shipping-be              5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+temas                    3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+tencent-vps              3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+shipping                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+shipping-customer-fe     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 💻 Operating System: 
-Linux                    18 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 35 mins (66.74%)
+⏱ AI Coding Time: 12 hrs 27 mins (66.5%)
 
-✍️ 1,613 lines written by AI, 593 lines written by hand (73.12% AI-written)
+✍️ 736 lines written by AI, 593 lines written by hand (55.38% AI-written)
 
-🔤 598,670 Input Tokens, 95,578 Output Tokens
+🔤 594,516 Input Tokens, 85,925 Output Tokens
 
-💵 $4.46 Estimated AI Cost This Week
+💵 $4.28 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 356 AI Prompts
+🧠 23 AI Sessions, 355 AI Prompts
 
-Sonnet                   1,613 lines         █████████████████████████   100.00 % 
+Sonnet                   736 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.12% of written lines came from AI
-📝 Concise Prompter — average 238 characters per prompt
+⚖️ Balanced with AI — 55.38% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 42.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 61.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 12:45:52 UTC
+ Last Updated on 07/09/2026 14:56:59 UTC
 <!--END_SECTION:waka-->
