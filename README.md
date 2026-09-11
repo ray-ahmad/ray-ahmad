@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C637%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C642%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,49 +30,49 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
-Go                       4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-SQL                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Vue                      8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+Go                       7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Other                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+SQL                      1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 4 mins       █████████████████░░░░░░░░   69.28 % 
-Antigravity CLI          2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-DataGrip                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Antigravity Desktop      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+VS Code                  18 hrs 24 mins      ███████████████████░░░░░░   75.67 % 
+Antigravity Desktop      2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Antigravity CLI          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+DataGrip                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🐱‍💻 Projects: 
-shipping-customer-fe     10 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.98 % 
-shipping-be              3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-temas                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-tencent-vps              2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-atlantic                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+shipping-customer-fe     11 hrs 48 mins      ████████████░░░░░░░░░░░░░   48.51 % 
+shipping-be              5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+temas                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+tencent-vps              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+atlantic                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Linux                    21 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (47.17%)
+⏱ AI Coding Time: 12 hrs 9 mins (49.99%)
 
-✍️ 0 lines written by AI, 1,516 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,954 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 162 AI Prompts
+🧠 16 AI Sessions, 212 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 13:29:01 UTC
+ Last Updated on 11/09/2026 13:26:16 UTC
 <!--END_SECTION:waka-->
