@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C672%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C674%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,48 +30,48 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.18 % 
-TypeScript               4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Other                    4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Vue                      2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-SQL                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Go                       9 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
+TypeScript               5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Other                    5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Vue                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+SQL                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 40 mins      █████████████████░░░░░░░░   67.67 % 
-Antigravity CLI          7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-DataGrip                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+VS Code                  17 hrs 53 mins      █████████████████░░░░░░░░   69.58 % 
+Antigravity CLI          7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+DataGrip                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-shipping-be              9 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
-shipping                 8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-shipping-customer-fe     6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-temas                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-sso-be                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+shipping-be              8 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
+shipping-customer-fe     7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+shipping                 7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+temas                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+sso-be                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Linux                    27 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 5 mins (65.54%)
+⏱ AI Coding Time: 17 hrs 19 mins (67.4%)
 
-✍️ 0 lines written by AI, 1,244 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,060 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 276 AI Prompts
+🧠 12 AI Sessions, 266 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 163 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
+📝 Concise Prompter — average 155 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 13:58:56 UTC
+ Last Updated on 23/09/2026 14:10:19 UTC
 <!--END_SECTION:waka-->
