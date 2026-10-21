@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,51 +30,51 @@ Sunday                   274 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
-Markdown                 5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Other                    3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-SQL                      3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-TypeScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Go                       10 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.24 % 
+Markdown                 4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Other                    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+SQL                      2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Vue                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 41 mins      ████████████████░░░░░░░░░   62.47 % 
-Antigravity CLI          7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-DataGrip                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+VS Code                  20 hrs 23 mins      ██████████████████░░░░░░░   70.68 % 
+Antigravity CLI          5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+DataGrip                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🐱‍💻 Projects: 
-shipping-be              9 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-blog-rayahmad            5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-shipping                 4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-temas                    3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-tencent-vps              2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+shipping-be              9 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+blog-rayahmad            5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+shipping                 4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+temas                    2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+shipping-customer-fe     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 💻 Operating System: 
-Linux                    28 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 43 mins (59.08%)
+⏱ AI Coding Time: 16 hrs 26 mins (56.97%)
 
-✍️ 217 lines written by AI, 1,564 lines written by hand (12.18% AI-written)
+✍️ 217 lines written by AI, 1,868 lines written by hand (10.41% AI-written)
 
-🔤 1,443,371 Input Tokens, 146,489 Output Tokens
+🔤 1,373,932 Input Tokens, 126,159 Output Tokens
 
-💵 $4.64 Estimated AI Cost This Week
+💵 $4.25 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 282 AI Prompts
+🧠 17 AI Sessions, 294 AI Prompts
 
 Gemini                   217 lines           █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.18% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 90.76% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.41% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 92.93% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 14:13:27 UTC
+ Last Updated on 21/10/2026 14:25:25 UTC
 <!--END_SECTION:waka-->
