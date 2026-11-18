@@ -30,50 +30,50 @@ Sunday                   277 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-Markdown                 4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Other                    4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-SQL                      3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Vue                      3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Go                       8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.04 % 
+Other                    5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Markdown                 3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+SQL                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Vue                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 40 mins      ██████████████████░░░░░░░   73.66 % 
-DataGrip                 3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Antigravity CLI          3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+VS Code                  20 hrs 55 mins      ██████████████████░░░░░░░   72.68 % 
+Antigravity CLI          4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+DataGrip                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 
 🐱‍💻 Projects: 
-shipping-be              7 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-shipping                 7 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-shipping-customer-fe     3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-temas                    3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-blog-rayahmad            2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+shipping-be              9 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+shipping                 8 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+temas                    3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+shipping-customer-fe     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+blog-rayahmad            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Linux                    28 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    28 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 53 mins (67.33%)
+⏱ AI Coding Time: 19 hrs 56 mins (69.26%)
 
-✍️ 0 lines written by AI, 659 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 588 lines written by hand (0.0% AI-written)
 
-🔤 1,815,181 Input Tokens, 94,111 Output Tokens
+🔤 2,066,824 Input Tokens, 117,753 Output Tokens
 
-💵 $4.76 Estimated AI Cost This Week
+💵 $5.55 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 227 AI Prompts
+🧠 30 AI Sessions, 233 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
+📝 Concise Prompter — average 180 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/11/2026 18:21:03 UTC
+ Last Updated on 18/11/2026 17:54:44 UTC
 <!--END_SECTION:waka-->
