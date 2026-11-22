@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C842%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2036%20mins-blue?style=flat)
 
@@ -30,50 +30,50 @@ Sunday                   277 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Other                    4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-SQL                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-CSV                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Go                       5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Other                    4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+SQL                      2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+CSV                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      █████████████████░░░░░░░░   66.96 % 
-Antigravity CLI          3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-DataGrip                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+VS Code                  10 hrs 36 mins      ████████████████░░░░░░░░░   65.67 % 
+DataGrip                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Antigravity CLI          2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
 🐱‍💻 Projects: 
-shipping-be              6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
-shipping                 6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.77 % 
-temas                    2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-blog-rayahmad            1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-shipping-customer-fe     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+shipping-be              5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
+shipping                 5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.80 % 
+temas                    2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+shipping-customer-fe     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+shipping-admin-fe        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Linux                    18 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (68.42%)
+⏱ AI Coding Time: 11 hrs 56 mins (73.95%)
 
-✍️ 0 lines written by AI, 554 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 438 lines written by hand (0.0% AI-written)
 
-🔤 2,018,595 Input Tokens, 162,155 Output Tokens
+🔤 1,902,565 Input Tokens, 155,876 Output Tokens
 
-💵 $5.98 Estimated AI Cost This Week
+💵 $5.68 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 177 AI Prompts
+🧠 21 AI Sessions, 167 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 163 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/11/2026 16:41:34 UTC
+ Last Updated on 22/11/2026 17:00:03 UTC
 <!--END_SECTION:waka-->
